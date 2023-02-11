@@ -1,6 +1,8 @@
-# Funkin Script AutoComplete
-Simple AutoCompleter for [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) and [PEngine](https://github.com/Snirozu/Funkin-PEngine) Lua scripts.<br>
+# Denpa Hscript AutoComplete
+This Autocompleter is a fork of the original Funkin-Script-Autocomplete(https://github.com/Snirozu/Funkin-Script-AutoComplete), modified to work with Denpa-Engines Hscript implementation. Full credit goes to Snirozu for most of this, I just changed it to work with Hscript!!!!!
 
+# Original README because we fair out here!!! (It also tells you how to compile!!)
+# Funkin Script AutoComplete
 # Features
 - Function/Event/Variable auto completing
 - Warnings for deprecated functions
